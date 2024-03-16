@@ -1,0 +1,85 @@
+body{
+  margin: 0;
+  font-family: Tahoma;
+}
+.wrapper{
+  max-width: 960px;
+  margin: 0 auto;
+
+}
+.form-wrap {
+  background-color: #008ab14e;
+  padding-bottom: 50px;
+  padding-top: 30px; 
+  min-height: 50vh;
+}
+h1{
+  margin: 40px auto;
+  color: #0a9dff;
+  text-align: center;
+}
+ul{
+  padding: 0;
+  list-style-type: none;
+}
+li{
+  padding: 6px 10px;
+  border: 1px solid #5b5b5b67;
+  margin: 20px auto;
+  background: white;
+  max-width: 800px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(88, 88, 88, 0.196);
+}
+li h4{
+  color: #0a9dff;
+  margin: 0;
+  text-transform: capitalize;
+}
+li p{
+  color: #333;
+  margin: 8px 0 0;
+}
+footer{
+  background: #eee;
+  padding: 60px;
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+form{
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+label{
+  display: block;
+  font-weight: bold;
+  font-size: 0.8em;
+  color: #333;
+  margin: 16px 0 6px;
+}
+input, select{
+  padding: 6px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}
+.field{
+  display: inline-block;
+  margin: 0 10px;
+}
+button{
+  color: white;
+  border: 0;
+  background: #0a9dff;
+  padding: 6px;
+  min-width: 80px;
+  border-radius: 4px;
+}
+footer a{
+  text-align: center;
+  display: block;
+  color: #999;
+  margin-top: 5px;
+  font-size: 0.7em;
+}

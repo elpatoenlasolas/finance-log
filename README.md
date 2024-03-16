@@ -2,7 +2,7 @@
 
 
 
-
+## You can see the deployment [HERE](https://elpatoenlasolas.github.io/finance-log/public/index.html).
 
 I only modified some HTML structure and CSS styling.
 
